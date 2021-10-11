@@ -1,0 +1,34 @@
+*{
+    margin: 0 0;
+    padding:  0 0 ;
+
+}
+body{
+    background-image: url(./Lists-and-Tuples-in-Python_Watermarked.4d655c81a78b.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+.wrapper{
+margin-top: 1rem;
+font-size: 1rem;
+}
+header{
+    font-size:4rem;
+    color: blue;
+}
+#text{
+    background-color:yellowgreen
+}
+#add{
+    background-color:green
+}
+#add:hover{
+    background-color:orange;
+}
+#clear{
+    background-color:orange;
+}
+#clear:hover{
+    background-color:red;
+}
